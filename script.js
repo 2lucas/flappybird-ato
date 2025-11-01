@@ -149,7 +149,7 @@ function renderGame() {
         }
 
         //Collision(bird, pipe)) {
-        //    currentState = GAME_STATE.GAME_OVER;
+        //    currentState = GAME_STATE.GAME_OVER; a
         //}
     }
 
